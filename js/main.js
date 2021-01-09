@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Stephanie Lee."],
+      strings: ["Stephanie M. Lee"],
       typeSpeed: 100,
       loop: false,
     });
