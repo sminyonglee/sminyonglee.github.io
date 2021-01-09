@@ -79,9 +79,9 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Stephanie Lee.", "Neuroscientist.", "Creator.", "Adventurer.", "Animal Lover"],
+      strings: ["Stephanie Lee."],
       typeSpeed: 100,
-      loop: true,
+      loop: false,
     });
   });
 
